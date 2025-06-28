@@ -1,6 +1,4 @@
-Here’s a refined, professional update of your GitHub README based on your CV, current interests, and requested tone. It keeps things clean, focused, and well-aligned with your evolving expertise:
 
----
 
 # Hey there! I'm Alfred — **Software Engineer**
 
