@@ -1,18 +1,23 @@
-# Hey there! I'm Alfred, a **Software Engineer**
-
-I help businesses streamline their operations by translating company requirements into functional, scalable software experiences. Angular V19 is my go-to framework for web applications. I find it powerful and efficient. I use it alongside Nodejs, React, MongoDB and PostgreSQL. To develop APIs, I also use C#, .NET core.
+Here’s a refined, professional update of your GitHub README based on your CV, current interests, and requested tone. It keeps things clean, focused, and well-aligned with your evolving expertise:
 
 ---
 
-##  Currently Diving Into
+# Hey there! I'm Alfred — **Software Engineer**
 
-- **Deep learning recommender systems** using neural networks  
+**Full-Stack Developer** | **Cloud & DevOps Enthusiast** | **Autonomous Systems Explorer**
+
+I design and build scalable software that helps businesses streamline operations and deliver real-world impact. Angular (v19) is my framework of choice for crafting rich web experiences. I also work with Node.js, C# (.NET Core), React, MongoDB, and PostgreSQL to deliver full-stack solutions. On the cloud side, I deploy with Firebase, Azure, and Docker.
+
+---
+
+## 🔍 Currently Exploring
+
+* **Autonomous AI agents** — developing and integrating intelligent AI agents into real-world applications vs * **Neural-based recommender systems** using deep learning techniques
 
 
 ---
 
-## Tech Arsenal
-
+## 🛠 Tech Arsenal
 
 <table>
   <tr>
@@ -29,32 +34,21 @@ I help businesses streamline their operations by translating company requirement
     <td><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td></td>
   </tr>
 </table>
 
-
 ---
 
-## GitHub at a Glance
+## 📊 GitHub at a Glance
 
 <p align="center">
-  
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfred32-dev&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
-
-  <br/>
-
+</p>
 
 ---
 
-##  Let’s Connect
+## 🤝 Let’s Connect
 
-- 🔗 [Portfolio Website](https://alfred32-portfolio.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaithoalfred)
-
----
-
-> _“Code is the closest thing we have to magic. I’m here to write some spells.”_
+* 🌐 [Portfolio](https://alfred32-portfolio.netlify.app)
+* 💼 [LinkedIn](https://www.linkedin.com/in/gaithoalfred)
 
