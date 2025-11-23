@@ -1,10 +1,10 @@
 
 
-# Hey there! I'm Alfred — **Software Engineer**
+# Hey there! I'm Alfred
 
 **Full-Stack Developer** | **Cloud & DevOps Enthusiast** | **AI agents enthusiast** | **Digital Normad**
 
-I design and build scalable software that helps businesses streamline operations and deliver real-world impact. Angular (v19) is my framework of choice for crafting rich web experiences. I also work with Node.js, C# (.NET Core), React, MongoDB, and PostgreSQL to deliver full-stack solutions. On the cloud side, I deploy with Firebase, Azure, and Docker.
+I design and build scalable software that helps businesses streamline operations and deliver real-world impact. Angular (v19) is my framework of choice. I also work with Node.js, C# (.NET Core), React, MongoDB, and PostgreSQL to deliver full-stack solutions. On the cloud side, I deploy with Firebase, Azure, and Docker.
 
 ---
 
